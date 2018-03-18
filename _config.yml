@@ -16,8 +16,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Wannian Zhu
-organization: zkh360.com
-organization_url: http://www.zkh360.com
+# organization: zkh360.com
+# organization_url: http://www.zkh360.com
 github_username: zhuwannian
 location: Beijing, China
 email: zhu_wannian@163.com
